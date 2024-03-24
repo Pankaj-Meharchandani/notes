@@ -4,11 +4,11 @@ This is a simple Android note-taking app created with Java, XML, and SQLite.
 
 ## Features
 
-- View a list of all notes
-- Create a new note with a heading and details
-- Edit existing notes
-- Delete notes
-- Save and retrieve notes from SQLite database
+- View a list of all notes.
+- Create a new note with a heading and details.
+- Edit existing notes.
+- Delete notes.
+- Save and retrieve notes from SQLite database.
 
 ## Getting Started
 
